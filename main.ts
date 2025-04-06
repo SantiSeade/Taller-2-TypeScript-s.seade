@@ -58,4 +58,4 @@ function mostrarDetalleSerie(serie: Serie): void{
             </div>
         `;
     }
-  }
+}
